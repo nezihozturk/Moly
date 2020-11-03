@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\202011\\zen\\zen.webapi\\Zen.WebApi\\Zen.WebApi.csproj": {}
+    "D:\\Projects\\202011\\Zen\\zen.webapi\\zen.webapi.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\202011\\zen\\zen.webapi\\Zen.WebApi\\Zen.WebApi.csproj": {
+    "D:\\Projects\\202011\\Zen\\zen.webapi\\zen.webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\202011\\zen\\zen.webapi\\Zen.WebApi\\Zen.WebApi.csproj",
-        "projectName": "Zen.WebApi",
-        "projectPath": "D:\\Projects\\202011\\zen\\zen.webapi\\Zen.WebApi\\Zen.WebApi.csproj",
+        "projectUniqueName": "D:\\Projects\\202011\\Zen\\zen.webapi\\zen.webapi.csproj",
+        "projectName": "zen.webapi",
+        "projectPath": "D:\\Projects\\202011\\Zen\\zen.webapi\\zen.webapi.csproj",
         "packagesPath": "C:\\Users\\nzhzt\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\202011\\zen\\zen.webapi\\Zen.WebApi\\obj\\",
+        "outputPath": "D:\\Projects\\202011\\Zen\\zen.webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

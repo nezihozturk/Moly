@@ -1,0 +1,9 @@
+D:\Projects\202011\Zen\zen.dal\bin\Debug\netstandard2.0\zen.dal.deps.json
+D:\Projects\202011\Zen\zen.dal\bin\Debug\netstandard2.0\zen.dal.dll
+D:\Projects\202011\Zen\zen.dal\bin\Debug\netstandard2.0\zen.dal.pdb
+D:\Projects\202011\Zen\zen.dal\obj\Debug\netstandard2.0\zen.dal.csprojAssemblyReference.cache
+D:\Projects\202011\Zen\zen.dal\obj\Debug\netstandard2.0\zen.dal.AssemblyInfoInputs.cache
+D:\Projects\202011\Zen\zen.dal\obj\Debug\netstandard2.0\zen.dal.AssemblyInfo.cs
+D:\Projects\202011\Zen\zen.dal\obj\Debug\netstandard2.0\zen.dal.csproj.CoreCompileInputs.cache
+D:\Projects\202011\Zen\zen.dal\obj\Debug\netstandard2.0\zen.dal.dll
+D:\Projects\202011\Zen\zen.dal\obj\Debug\netstandard2.0\zen.dal.pdb

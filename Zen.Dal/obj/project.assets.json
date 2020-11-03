@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\202011\\zen\\zen.dal\\Zen.Dal\\Zen.Dal.csproj",
-      "projectName": "Zen.Dal",
-      "projectPath": "D:\\Projects\\202011\\zen\\zen.dal\\Zen.Dal\\Zen.Dal.csproj",
+      "projectUniqueName": "D:\\Projects\\202011\\Zen\\zen.dal\\zen.dal.csproj",
+      "projectName": "zen.dal",
+      "projectPath": "D:\\Projects\\202011\\Zen\\zen.dal\\zen.dal.csproj",
       "packagesPath": "C:\\Users\\nzhzt\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\202011\\zen\\zen.dal\\Zen.Dal\\obj\\",
+      "outputPath": "D:\\Projects\\202011\\Zen\\zen.dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

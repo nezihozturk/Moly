@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZklT6YuCQC0IK/EIv/pn8mpGYA4RThjL43GKbxKXvbVOHSQ9wELTpp7hxc/CRm5ouNmmnJpsK6VIGa9D9nMiig==",
+  "dgSpecHash": "SjGeoqNJ3mj3eJOb3yYxSJkqwaoESwJr3OOQy3T7Hn2Vg+R1JC9FUP1RtG4Xun4Vw6enH7R84F3qRT5DGMA2kQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\202011\\zen\\zen.dal\\Zen.Dal\\Zen.Dal.csproj",
+  "projectFilePath": "D:\\Projects\\202011\\Zen\\zen.dal\\zen.dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nzhzt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

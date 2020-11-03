@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V27PWW+JSvdgSm5Yt9RqhsgFL6pspWVsYwKJozq6DCSArkPZZiC5hafLcjPYk7j1v8kTUQtp37QchUkji7XBuA==",
+  "dgSpecHash": "evJE/EUydvXdtGgKDxNclSfLtL9g+1yEhm0Oiua+PKUqqBZP8mNww4qRlFBK1+WjxcK4TE8DQqYrX4AWCkfFdw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\202011\\zen\\zen.webapi\\Zen.WebApi\\Zen.WebApi.csproj",
+  "projectFilePath": "D:\\Projects\\202011\\Zen\\zen.webapi\\zen.webapi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
