@@ -2,6 +2,9 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "Microsoft.EntityFrameworkCore.SqlServer/5.0.0-rc.2.20475.6": {
+        "type": "package"
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -29,6 +32,20 @@
     }
   },
   "libraries": {
+    "Microsoft.EntityFrameworkCore.SqlServer/5.0.0-rc.2.20475.6": {
+      "sha512": "vxgAEJVYFjqMMnKx0zN/EEgUZWjo344VP1+phsG3BkU0TCu0d2opjIHKKkIE2sSRNOlBiLxg7eok0jeHmVMtVQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlserver/5.0.0-rc.2.20475.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.xml",
+        "microsoft.entityframeworkcore.sqlserver.5.0.0-rc.2.20475.6.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.nuspec"
+      ]
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -175,6 +192,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0-rc.2.20475.6",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -220,6 +238,10 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[5.0.0-rc.2.20475.6, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
@@ -240,5 +262,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.0-rc.2.20475.6 is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Package Microsoft.EntityFrameworkCore.SqlServer 5.0.0-rc.2.20475.6 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

@@ -1,11 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "SjGeoqNJ3mj3eJOb3yYxSJkqwaoESwJr3OOQy3T7Hn2Vg+R1JC9FUP1RtG4Xun4Vw6enH7R84F3qRT5DGMA2kQ==",
-  "success": true,
+  "dgSpecHash": "wdsIg1dTDI7ZWxYswauo0tfO1XrVpH64wdCpxhWDxt1TMBHpEH8lU5XnomU6/yMCf5Jvwz1lztbD2qvKo81/AQ==",
+  "success": false,
   "projectFilePath": "D:\\Projects\\202011\\Zen\\zen.dal\\zen.dal.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nzhzt\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.0-rc.2.20475.6\\microsoft.entityframeworkcore.sqlserver.5.0.0-rc.2.20475.6.nupkg.sha512",
     "C:\\Users\\nzhzt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.0-rc.2.20475.6 is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Package Microsoft.EntityFrameworkCore.SqlServer 5.0.0-rc.2.20475.6 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
